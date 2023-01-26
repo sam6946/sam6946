@@ -22,10 +22,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-### Stats
-![Sam6946's Github stats](http;//github-readme-stats-vercel.app/api?username=sam6946&show_icons=true&theme=gruvbox)
-
-<!-- ![Github Streak](https://streak-stats.demolab.com?user=Sam6946&theme=gruvbox&border_radius=4.5) -->
           
           
           
